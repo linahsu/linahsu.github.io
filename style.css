@@ -17,3 +17,7 @@ strong {
 .photo-info div {
     display: inline-block;
 }
+.photo {
+    padding: 30px;
+    background-color:#ca865f;
+}
