@@ -1,0 +1,34 @@
+body {
+    background-color: #fea26c;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    color: darkgreen;
+    font-weight: 700;
+}
+p, h3:nth-of-type(1) {
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+strong {
+    color: darkgreen;
+}
+.name {
+    text-align: center;
+}
+.photo-info {
+    padding-left: 20px;
+}
+.photo-info div {
+    display: inline-block;
+}
+.photo {
+    padding: 30px 20px;
+    background-color:#ca865f;
+}
+ul li:nth-child(odd) {
+    color: darkgreen;
+}
+.info, .skills, .links {
+    padding-left: 20px;
+}
